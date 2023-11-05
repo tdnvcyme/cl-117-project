@@ -1,0 +1,10 @@
+body{
+    background-color: green;
+}
+
+span{
+    font-size: 10px;
+    margin-left: 5px;
+    float: right;
+    margin-right: 5px;
+}
